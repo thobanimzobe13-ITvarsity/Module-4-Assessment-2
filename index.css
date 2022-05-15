@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(47, 58, 151);
+    font-family: sans-serif;    
+}
+header{
+    width: 90%;
+    margin: auto;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+    
+}
+
+
+.wrap{
+    width: 90%;
+    margin: auto;
+}
+.puzzle-grid-drop{
+    margin-left: 390px;
+    margin-top: 200px;
+}
+#grid-1{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#grid-2{
+    position: absolute;
+    top: 0;
+    left: 200px;
+}
+#grid-3{
+    position: absolute;
+    top: 0;
+    left: 400px;
+}
+#grid-4{
+    position: absolute;
+    top: 200px;
+    left: 0;
+}
+#grid-5{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+#grid-6{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+#grid-7{
+    position: absolute;
+    top: 400px;
+    left: 0;
+}
+#grid-8{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+}
+#grid-9{
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+
+
+.one{
+    position: absolute;
+    top: 100px;
+    left: 5px;
+}
+.two{
+    position: absolute;
+    top: 300px;
+    left: 5px;
+}
+.three{
+    position: absolute;
+    top: 500px;
+    left: 5px;
+}
+.four{
+    position: absolute;
+    top: 0px;
+    left: 390px;
+}
+.five{
+    position: absolute;
+    top: 0px;
+    left: 590px;
+}
+.six{
+    position: absolute;
+    top: 0px;
+    left: 790px;
+}
+.seven{
+    position: absolute;
+    top: 1300px;
+    left: 5px;
+}
+.eight{
+    position: absolute;
+    top: 1500px;
+    left: 5px;
+}
+#nine{
+    position: absolute;
+    top: 1700px;
+    left: 5px;
+}
+
